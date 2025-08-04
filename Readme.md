@@ -1,12 +1,17 @@
-# 🎓 Préinscription Cours de Vacances - Université
 
-Ce projet est une application de gestion des **préinscriptions aux cours de vacances** au centre de formation professionnel la canadienne. Il permet aux apprenants de réserver leur place pour un cours, et à l’administration de gérer les demandes efficacement.
+
+  Ce projet met en œuvre les principales étapes du cycle de développement logiciel, de l'analyse des besoins jusqu’à la réalisation, en passant par la modélisation, la conception et la documentation. Il s’inscrit pleinement dans les objectifs du BTS Génie Logiciel, en mobilisant des compétences en programmation, ingénierie des données, documentation technique, et gestion de projet. 
+
+
+# 🎓 Préinscription au modules de Vacances
+
+Ce projet est une application de gestion des **préinscriptions aux modules de vacances** au CENTRE DE FORMATION PROFESSIONNEL LA CANADIENNE. Il permet aux apprenants de réserver leur place pour un module, et à l’administration de gérer les demandes efficacement.
 
 ---
 
 ## 🧾 Objectif
 
-- Permettre aux étudiants de s’inscrire facilement à des cours de vacances selon leur niveau et filière.
+- Permettre aux apprenants de preinscrire facilement à des modules de vacances selon leur choix.
 - Automatiser la gestion des quotas de places.
 - Offrir un espace d’administration pour le suivi et la validation des préinscriptions.
 
@@ -14,14 +19,14 @@ Ce projet est une application de gestion des **préinscriptions aux cours de vac
 
 ## 🔍 Fonctionnalités
 
-### 👨‍🎓 Étudiant :
+### 👨‍🎓 Apprenants :
 - Création de compte / Connexion
-- Consultation des cours disponibles
+- Consultation des modules disponibles
 - Préinscription avec formulaire en ligne
 - Suivi du statut de la demande (en attente / validée / refusée)
 
 ### 👩‍💼 Administrateur :
-- Gestion des cours (ajout, modification, suppression)
+- Gestion des modules (ajout, modification, suppression)
 - Validation des préinscriptions
 - Exportation des listes (PDF ou Excel)
 
@@ -57,4 +62,4 @@ Nom : Lutresse Mata Mbogne
 
 Encadré par : Prof. Waffo Lele Rostand
 
-Projet de stage universitaire — Août 2025# projet-BTS-2025
+Projet de stage professionel — Août 2025# projet-BTS-2025
